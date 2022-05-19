@@ -5,7 +5,7 @@ https://angular.io/start
 
 An introductory scalable web application using Angular.
 Angular uses Typescript, the better version of Javascript.
-Components suchs as alerts, shipping, details, and cart make up an interactive whole that can easily changed and maintained.
+Components suchs as alerts, shipping, details, and cart make up an interactive whole that can be easily changed and maintained.
 
 
 ![](screenshots/alerts.png)
