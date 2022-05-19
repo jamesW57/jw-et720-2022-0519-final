@@ -9,6 +9,6 @@ Components suchs as alerts, shipping, details, and cart make up an interactive w
 
 
 ![](screenshots/alerts.png)
-![](screenshots/cart.png)
+![](screenshots/details.png)
 ![](screenshots/shipping.png)
 ![](screenshots/checkoutForm.png)
