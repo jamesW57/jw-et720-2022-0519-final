@@ -8,7 +8,7 @@ Angular uses Typescript, the better version of Javascript.
 Components suchs as alerts, shipping, details, and cart make up an easily maintained and interactive whole.
 
 
-![](images/alerts.png)
-![](images/cart.png)
-![](images/shipping.png)
-![](images/checkoutForm.png)
+![](screenshots/alerts.png)
+![](screenshots/cart.png)
+![](screenshots/shipping.png)
+![](screenshots/checkoutForm.png)
